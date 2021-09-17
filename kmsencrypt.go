@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/DonMills/kmsencrypt/awsfuncs"
-	"github.com/DonMills/kmsencrypt/encryption"
-	"github.com/DonMills/kmsencrypt/errorhandle"
-	"github.com/DonMills/kmsencrypt/filefuncs"
+	"github.com/mmatww/kmsencrypt/awsfuncs"
+	"github.com/mmatww/kmsencrypt/encryption"
+	"github.com/mmatww/kmsencrypt/errorhandle"
+	"github.com/mmatww/kmsencrypt/filefuncs"
 
 	"github.com/urfave/cli"
 )

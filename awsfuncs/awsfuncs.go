@@ -2,7 +2,7 @@
 package awsfuncs
 
 import (
-	"github.com/DonMills/kmsencrypt/errorhandle"
+	"github.com/mmatww/kmsencrypt/errorhandle"
 
 	"encoding/base64"
 

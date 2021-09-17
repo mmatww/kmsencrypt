@@ -2,8 +2,8 @@
 package encryption
 
 import (
-	"github.com/DonMills/kmsencrypt/errorhandle"
-	"github.com/DonMills/kmsencrypt/padding"
+	"github.com/mmatww/kmsencrypt/errorhandle"
+	"github.com/mmatww/kmsencrypt/padding"
 
 	"crypto/aes"
 	"crypto/cipher"

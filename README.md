@@ -22,15 +22,15 @@ ___
 
 ## How to build:
 
-#### git clone into the $GOPATH/src/github.com/DonMills directory
+#### git clone into the $GOPATH/src/github.com/mmatww directory
 ```
-mkdir $GOPATH/src/github.com/DonMills
-cd $GOPATH/src/github.com/DonMills
-git clone https://github.com/DonMills/kmsencrypt.git
+mkdir $GOPATH/src/github.com/mmatww
+cd $GOPATH/src/github.com/mmatww
+git clone https://github.com/mmatww/kmsencrypt.git
 ```
 _or_
 ```
-go get github.com/DonMills/kmsencrypt
+go get github.com/mmatww/kmsencrypt
 ```
 
 #### This tool requires the "aws-sdk-go" and the ["urfave/cli"](https://github.com/urfave/cli) packages be installed.
@@ -76,5 +76,5 @@ This is a function of the aws sdk for go discussed here: http://docs.aws.amazon.
 ## Mac installation via homebrew
 New!  Now you can install on a mac by using homebrew.
 ```
-brew install DonMills/tools/kmsencrypt
+brew install mmatww/tools/kmsencrypt
 ```
